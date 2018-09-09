@@ -1,0 +1,31 @@
+﻿  GameGraphics.cpp
+GameGraphics.cpp(101): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(105): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+GameGraphics.cpp(125): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+GameGraphics.cpp(137): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(159): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+GameGraphics.cpp(172): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(244): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\External Libraries\SFML\include\SFML/Graphics/Text.hpp(210): note: see declaration of 'sf::Text::setColor'
+GameGraphics.cpp(253): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\External Libraries\SFML\include\SFML/Graphics/Text.hpp(210): note: see declaration of 'sf::Text::setColor'
+GameGraphics.cpp(477): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\External Libraries\SFML\include\SFML/Graphics/Text.hpp(210): note: see declaration of 'sf::Text::setColor'
+GameGraphics.cpp(487): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\External Libraries\SFML\include\SFML/Graphics/Text.hpp(210): note: see declaration of 'sf::Text::setColor'
+GameGraphics.cpp(544): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(549): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(540): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\External Libraries\SFML\include\SFML/Graphics/Text.hpp(210): note: see declaration of 'sf::Text::setColor'
+GameGraphics.cpp(674): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(684): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+GameGraphics.cpp(670): warning C4996: 'sf::Text::setColor': was declared deprecated
+  C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\External Libraries\SFML\include\SFML/Graphics/Text.hpp(210): note: see declaration of 'sf::Text::setColor'
+  TetriminoClass.cpp
+  WellClass.cpp
+  Generating code
+c:\users\ben3\documents\visual studio 2012\projects\gamegraphicclass\gamegraphicclass\gamegraphics.cpp(526): warning C4715: 'Game::processGameOverScreen': not all control paths return a value
+  All 198 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameGraphicClass.vcxproj -> C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\x64\Release\GameGraphicClass.exe
+  GameGraphicClass.vcxproj -> C:\Users\Ben3\Documents\Visual Studio 2012\Projects\GameGraphicClass\x64\Release\GameGraphicClass.pdb (Full PDB)
